@@ -2,7 +2,7 @@
 
 This project is an implementation of a reusable 3D transformation widget in Python.
 
-![3D transformation widget](./data/preview.png "3D transformation widget")
+<img src="/data/preview.png" alt="3D transformation widget" width="450">
 
 ### Installation
 The repo is developed and tested under Python 3.10.
