@@ -2,6 +2,8 @@
 
 This project is an implementation of a reusable 3D transformation widget in Python.
 
+Please leave a star ⭐ if you find the repository useful.
+
 <img src="/data/preview.png" alt="3D transformation widget" width="450">
 
 ### Installation
@@ -25,5 +27,6 @@ python main.py --verbose
 
 ### References
 BIER, Eric Allan. Skitters and jacks: interactive 3D positioning tools. In: Proceedings of the 1986 workshop on Interactive 3D graphics. 1987. p. 183-196.
+
 
 [qt3d-gizmo in C++](https://github.com/florianblume/qt3d-gizmo)
